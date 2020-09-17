@@ -5,7 +5,7 @@ Utilizes regular expression to go through a system log file and generates two cs
 ![error](https://user-images.githubusercontent.com/47826916/93475017-c3a19f00-f915-11ea-9786-9cf86c72af8d.png)
 
 
-File 1 - Username,ERROR,INFO
+File 1 - Username,INFO,ERROR
 
 File 2 - Error,COUNT
 
